@@ -1,0 +1,1 @@
+var force=require("force");force.authorize({success:function(){var r=require("ui"),e=r.createAppWindow();e.open()},error:function(){alert("error")},cancel:function(){alert("cancel")}});

@@ -1,0 +1,8 @@
+"C:/Users/Mukund.Gadave/Documents/Titanium_Studio_Workspace/Force/build/android/gen/android/support/v7/appcompat/R.java"
+"C:/Users/Mukund.Gadave/Documents/Titanium_Studio_Workspace/Force/build/android/gen/com/appcelerator/force/ApplicationStylesheet.java"
+"C:/Users/Mukund.Gadave/Documents/Titanium_Studio_Workspace/Force/build/android/gen/com/appcelerator/force/AssetCryptImpl.java"
+"C:/Users/Mukund.Gadave/Documents/Titanium_Studio_Workspace/Force/build/android/gen/com/appcelerator/force/R.java"
+"C:/Users/Mukund.Gadave/Documents/Titanium_Studio_Workspace/Force/build/android/gen/com/appcelerator/force/UsetheforceActivity.java"
+"C:/Users/Mukund.Gadave/Documents/Titanium_Studio_Workspace/Force/build/android/gen/com/appcelerator/force/UsetheforceAppInfo.java"
+"C:/Users/Mukund.Gadave/Documents/Titanium_Studio_Workspace/Force/build/android/gen/com/appcelerator/force/UsetheforceApplication.java"
+"C:/Users/Mukund.Gadave/Documents/Titanium_Studio_Workspace/Force/build/android/gen/ti/modules/titanium/ui/R.java"
